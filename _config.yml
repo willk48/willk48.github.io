@@ -29,7 +29,7 @@
 title: Your awesome title
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi, my name is Will Kennedy and I am an amatuer developer and CS major at Oberlin College. This is just a simple site I created to showcase my interests stay tuned for more. 
+  Hi, my name is Will Kennedy and I am an amatuer developer and CS major at Oberlin College. This is just a simple site I created to showcase my interests, stay tuned for more. 
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
